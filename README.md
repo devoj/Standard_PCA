@@ -1,8 +1,8 @@
-__PCA in Python, LinAlg and sklearn :)__
+__PCA in Python, LinAlg and sklearn __
 
--  PCA in Python, LinAlg and sklearn
+-  PCA in Python using 15N HSQC data, using singular value decomposition and sklearn package.
 
-- This is a python Jupyter notebook entry to show how to run PCA, specifically on NMR data - 
+- !Note Raw data is not in this repository, for demonstration purposes only - 
  
  ## Items in this repository
 
